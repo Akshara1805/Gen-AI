@@ -1,0 +1,10 @@
+Akshara Kolishetty
+
+Skills:
+Python, Machine Learning, Deep Learning, Pandas, NumPy, SQL, Data Visualization
+
+Experience:
+3 years as Data Scientist at ABC Company
+
+Tools:
+TensorFlow, Scikit-learn, Tableau

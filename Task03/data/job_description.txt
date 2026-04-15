@@ -1,0 +1,12 @@
+Looking for a Data Scientist with the following skills:
+
+- Python
+- Machine Learning
+- Deep Learning
+- Pandas
+- NumPy
+- SQL
+- Data Visualization
+
+Experience:
+- 2+ years in Data Science
