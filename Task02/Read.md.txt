@@ -1,0 +1,43 @@
+# 🚀 LangChain Blog Project
+
+## 📖 Blog Title:
+Building Production-Ready LLM Applications using LangChain
+
+## 🔗 Medium Blog Link:
+https://medium.com/@kolishettyakshara5/langchain-building-production-ready-llm-applications-from-scratch-9aa74febe5b1
+
+---
+
+## 🧠 Overview
+
+This blog explains how to build scalable AI applications using LangChain.  
+It covers core components like LLMs, Chains, Agents, Memory, and Tools.
+
+---
+
+## 🏗️ LangChain Architecture
+
+![LangChain Architecture](langchain-architecture.png)
+
+---
+
+## 💡 Key Topics Covered
+
+- LLMs and Prompt Engineering  
+- Chains and Workflow Design  
+- Memory in AI systems  
+- Agents and Tools  
+- Real-world use cases  
+
+---
+
+## 📂 Files Included
+
+- `langchain-architecture.png` → Architecture Diagram  
+- `README.md` → Blog summary  
+
+---
+
+## 🚀 Author
+
+Your Name
